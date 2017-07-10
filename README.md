@@ -40,7 +40,7 @@ Besides that, you have to make a waitng list, based on a schedule. See the scena
   1. Health Plan information
 
 ## Instructions for the waiting list
-* On the folder static_data you will find a json with an array of schedules events for this challenge
+* On schedules.json file you will find a json with an array of schedules events for this challenge
 * The project must have a simple view that let the user create a new pacient or get a existing one on the waitling list
 * For the waiting list the user must see schedules that are free and choose one.
 
